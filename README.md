@@ -13,7 +13,7 @@ VSMB consists of 45 videos and 4,394 images, covering 25,466 target instances an
 
 - Note: We have compressed the video length and quality in order for github to display the images as quickly as possible!
 
-- Before the paper is accepted, if you wish to access our data in advance, please contact the email: hxchen1230@buaa.edu.cn. Kindly provide your name, affiliation, intended use, and contact information in the email. 
+<!-- - Before the paper is accepted, if you wish to access our data in advance, please contact the email: hxchen1230@buaa.edu.cn. Kindly provide your name, affiliation, intended use, and contact information in the email.  -->
 
 **August 2025** — The paper titled “Multiple Object Tracking in Video SAR: A Benchmark and Tracking Baseline” has been accepted. Dataset download link: [Dataset Link](https://pan.baidu.com/s/14DUmM61PcPsSK7_rt1MPfQ?pwd=jrvj). Paper download link: [Paper Link](https://doi.org/10.1109/LGRS.2025.3592711).
 
@@ -53,4 +53,5 @@ If you use this project in your research, please cite the following article:
 
 ## ✨ Acknowledgements
 
-We would like to express our sincere gratitude to the reviewers and editor for their thoughtful and constructive feedback throughout the review process. Their valuable comments and suggestions have greatly contributed to the improvement of this work. We appreciate the time and effort they have dedicated to reviewing our manuscript, and we are grateful for their support in making this research more robust and impactful.
+We would like to express our sincere gratitude to the reviewers and editors for their thoughtful and constructive feedback throughout the review process.
+<!-- Their valuable comments and suggestions have greatly contributed to the improvement of this work. We appreciate the time and effort they have dedicated to reviewing our manuscript, and we are grateful for their support in making this research more robust and impactful. -->
